@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveBingo", "LiveBingo.csproj", "{510931F9-C33B-4730-AA11-F286A5CFEFB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-NET45|Any CPU = Debug-NET45|Any CPU
+		Release-NET45|Any CPU = Release-NET45|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510931F9-C33B-4730-AA11-F286A5CFEFB6}.Debug-NET45|Any CPU.ActiveCfg = Debug-NET45|Any CPU
+		{510931F9-C33B-4730-AA11-F286A5CFEFB6}.Debug-NET45|Any CPU.Build.0 = Debug-NET45|Any CPU
+		{510931F9-C33B-4730-AA11-F286A5CFEFB6}.Release-NET45|Any CPU.ActiveCfg = Release-NET45|Any CPU
+		{510931F9-C33B-4730-AA11-F286A5CFEFB6}.Release-NET45|Any CPU.Build.0 = Release-NET45|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D03B09-1E35-40F7-8B47-33DC58778DAA}
+	EndGlobalSection
+EndGlobal
