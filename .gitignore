@@ -8,3 +8,4 @@
 /msbuild*.log
 /packages/
 /nuget.log
+/Output/setup-LiveBingo_1.5.exe
