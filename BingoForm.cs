@@ -127,6 +127,8 @@ namespace LongTech.Apps
   {
     public BingoPlugin()
     {
+      PortableLib.Initialize();
+
       Assembly = new PluginAssemblyInfo()
       {
         Name = "Live Bingo! Plugin"
